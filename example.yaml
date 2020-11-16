@@ -1,0 +1,23 @@
+- basic_pokemon:
+    name: "petya"
+    health: 84
+    attack: 22
+    defense: 12
+    speed: 17
+
+- strong_pokemon:
+    name: "vanya"
+    health: 33
+    attack: 14
+    defense: 42
+    speed: 56
+    special_attack: 13
+
+- fat_pokemon:
+    name: "zhora"
+    health: 33
+    attack: 14
+    defense: 42
+    speed: 56
+    special_defense: 13
+
